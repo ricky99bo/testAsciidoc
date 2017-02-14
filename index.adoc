@@ -1,10 +1,8 @@
-= test
+= Home
 
 .tabella
 . casa
-. castello
-.. armadietto
+    . castello
+        . armadietto
 
-
-
-link:secondo.adoc[secondo]
+link:secondo.html[seconda pagina]
