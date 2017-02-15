@@ -1,11 +1,23 @@
-:toc:
+:toc: left
+:toc-title: Menu
+:toclevels: 3
 
-= Home
+= GEOGRAFIA ITALIANA
 
-== LOMBARDIA
+== ITALIA
+
+include::italia.adoc[]
+
+=== LOMBARDIA
 
 include::lombardia.adoc[]
 
-== EMILIA ROMAGNA
+=== EMILIA ROMAGNA
 
 include::emilia.adoc[]
+
+==== BOLOGNA
+
+----
+è una bella città
+----
