@@ -11,7 +11,7 @@
 include::lombardia.adoc[]
 
 
-[[content]][[emilia]]
+[[emilia]]
 
 include::emilia.adoc[]
 
