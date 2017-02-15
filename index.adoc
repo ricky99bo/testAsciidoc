@@ -1,6 +1,5 @@
 = Home
 
-
 [[toc]]
 [[toctitle]]
 * link:#lombardia[LOMBARDIA]
@@ -10,8 +9,6 @@
 
 include::lombardia.adoc[]
 
-
 [[emilia]]
 
 include::emilia.adoc[]
-
