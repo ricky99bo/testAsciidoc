@@ -1,14 +1,11 @@
+:toc:
+
 = Home
 
-[[toc]]
-[[toctitle]]
-* link:#lombardia[LOMBARDIA]
-* link:#emilia[EMILIA-ROMAGNA]
-
-[[content]][[lombardia]]
+== LOMBARDIA
 
 include::lombardia.adoc[]
 
-[[emilia]]
+== EMILIA ROMAGNA
 
 include::emilia.adoc[]
