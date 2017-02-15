@@ -1,1 +1,1 @@
-asciidoctor -a linkcss -D ..\asciidocHtml *.adoc
+asciidoctor -a linkcss -D html index.adoc
