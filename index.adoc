@@ -1,10 +1,17 @@
 = Home
 
-prima home
 
-.tabella
-. casa
-    . castello
-        . armadietto
+[[toc]]
+[[toctitle]]
+* link:#lombardia[LOMBARDIA]
+* link:#emilia[EMILIA-ROMAGNA]
 
-link:secondo.html[seconda pagina]
+[[content]][[lombardia]]
+
+include::lombardia.adoc[]
+
+
+[[content]][[emilia]]
+
+include::emilia.adoc[]
+
