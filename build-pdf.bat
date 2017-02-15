@@ -1,2 +1,2 @@
 @echo off
-asciidoctor-pdf -D pdf index.adoc
+asciidoctor-pdf -D pdf source\index.adoc
