@@ -1,0 +1,10 @@
+stem:[sqrt(4) = 2]
+
+L'acqua (stem:[H_2O]) è bagnata
+
+[stem]
+++++
+sqrt(25) = in 5
+++++
+
+latexmath:[C = \alpha + \beta^\gamma]

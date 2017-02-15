@@ -27,11 +27,4 @@ include::emilia.adoc[]
 
 == FORMULE ed EQUAZIONI
 
-stem:[sqrt(4) = 2]
-
-L'asqua (stem:[H_2O]) è bagnata
-
-[stem]
-++++
-sqrt(25) = 5
-++++
+include::equazioni.adoc[]

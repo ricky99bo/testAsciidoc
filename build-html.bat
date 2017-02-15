@@ -1,2 +1,2 @@
-@echo off
-asciidoctor -D html index.adoc
+@echo on
+asciidoctor -D html source\index.adoc
