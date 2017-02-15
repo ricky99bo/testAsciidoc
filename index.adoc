@@ -2,6 +2,7 @@
 :toc: left
 :toc-title: Menu
 :toclevels: 3
+:sourcedir: source
 
 = GEOGRAFIA ITALIANA
 
@@ -9,15 +10,15 @@ Esplorando l'italia
 
 == ITALIA
 
-include::italia.adoc[]
+include::{sourcedir}/italia.adoc[]
 
 === LOMBARDIA
 
-include::lombardia.adoc[]
+include::{sourcedir}/lombardia.adoc[]
 
 === EMILIA ROMAGNA
 
-include::emilia.adoc[]
+include::{sourcedir}/emilia.adoc[]
 
 ==== BOLOGNA
 
@@ -27,4 +28,4 @@ include::emilia.adoc[]
 
 == FORMULE ed EQUAZIONI
 
-include::equazioni.adoc[]
+include::{sourcedir}/equazioni.adoc[]
